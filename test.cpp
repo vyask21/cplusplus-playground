@@ -13,6 +13,8 @@ int main(){
     cout<< "Enter the second number: ";
     cin>> num2;
 
+    sum = num1 + num2;
+
     //displaying result
     cout<< "Sum of " << num1 << " and " << num2 <<" is: " << sum << endl;
 
